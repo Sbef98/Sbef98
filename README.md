@@ -11,7 +11,7 @@
 - 🤝 Board member of UNIMORE's Junior Enterprise in 2021-2022
 - 👨‍🏫 Took part In Ammagamma's teaching program in Middle schools in 2023
 - 💡 Contributed to Parse Server towards reaching full serverless database support in 2023
-- 🤫 Currently working on multiple projects alongside UNIMORE's DOP
+- 🤫 Currently working on multiple projects alongside UNIMORE's DPO
 
 ### 🛠️ Skills
 
