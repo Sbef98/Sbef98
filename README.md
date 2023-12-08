@@ -36,7 +36,7 @@
 Feel free to reach out to me via [Email](mailto:stefano.lugli@e38.it) or connect on [LinkedIn](https://www.linkedin.com/in/stefano-lugli-b0404a1a0/).
 
 Check out my work 📂:
-- 💼 [e38.it](https://e38.it/about) - For professional endeavors
+- 💼 [e38.it](https://e38.it) - For professional endeavors
 - 🛠️ [softwrench.it](https://softwrench.it) - For fun and open-source projects
 
 Explore my personal space 🌐:
